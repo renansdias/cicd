@@ -50,7 +50,7 @@ printf $(kubectl get secret --namespace jenkins-team<X> jenkins-team<X> -o jsonp
 
 Log in to Jenkins. Any issues, please let one of the organizers know.
 
-# Step 1: Fork the slalomdojo/cicd-challenge-application repository
+# Step 1: Fork the slalomdojo/date-display-app repository
 
 First, log in to your own GitHub account. Then, head over to [https://github.com/slalomdojo/date-display-app](https://github.com/slalomdojo/date-display-app) and click the **Fork** button at the top-right corner. This will create a copy of the date-display-app repository in your GitHub account. If you do not know what Fork means, [read this](https://help.github.com/articles/fork-a-repo/)
 
